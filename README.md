@@ -11,9 +11,9 @@
 <img width="90" height="auto" img width="140" height="80" alt="image" src="https://github.com/user-attachments/assets/b913ba1c-a1fc-4711-a012-3979a75d23d2" />
 
 <p align="center">
-$\color{##f7dfe4}{\text{Whimsy | Narlen}}$
+$\color{##f7dfe4}{\text{Narlen | Narl}}$
   <p align="center">
-$\color{#a14584}{\text{Void sharing Meistrio from Dollys Factory}}$
+$\color{#a14584}{\text{ Dbls iwc/dniuf Meistrio from Dollys Factory}}$
 <p align="center">
 $\color{#d485bb}{\text{Taken by my boyfriend eros}}$
 <p align="center">
