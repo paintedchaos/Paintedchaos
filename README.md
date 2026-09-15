@@ -1,4 +1,5 @@
-<img width="1130" height="auto" alt="image" src="https://github.com/user-attachments/assets/936c90af-1dfb-4429-a908-ba953cb19f76" />
+<img width="1130" height="auto" alt="image" src="https://github.com/user-attachments/assets/9056084b-0bf7-45fc-a360-fc8e341e3eed" />
+
 
 <p align="center">
 
@@ -22,4 +23,4 @@ $\color{#f7dfe4}{\text{Add my main's nexxiro amd oqullent !!}}$
 
 
 
-<img width="1130" height="auto" alt="image" src="https://github.com/user-attachments/assets/f790da38-91af-4e36-b97e-a8f5359696d8" />
+<img width="1130" height="auto" alt="image" src="https://github.com/user-attachments/assets/8102e302-1607-4dde-ab2b-a8ce1ae98be2" />
