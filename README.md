@@ -13,7 +13,7 @@
 <p align="center">
 $\color{##f7dfe4}{\text{Narlen | Narl}}$
   <p align="center">
-$\color{#a14584}{\text{ Dbls iwc/dniuf Meistrio from Dollys Factory}}$
+$\color{#a14584}{\text{void sharing Junkrat from overwatch}}$
 <p align="center">
 $\color{#d485bb}{\text{Taken by my boyfriend eros}}$
 <p align="center">
