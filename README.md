@@ -10,9 +10,9 @@
 </p>
 
 <p align="left">
-<img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/ec5ccc6f-46bc-43cf-83ef-6e58c78a9a3c" 
+<img width="90" height="auto" alt="image" src="https://github.com/user-attachments/assets/ec5ccc6f-46bc-43cf-83ef-6e58c78a9a3c" 
 <p align="right">
-<img width="90" height="auto" alt="image" src="https://github.com/user-attachments/assets/a1834790-bf13-4775-814a-55249ce15dc1" />
+<img width="110" height="auto" alt="image" src="https://github.com/user-attachments/assets/a1834790-bf13-4775-814a-55249ce15dc1" />
 
 
 
